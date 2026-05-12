@@ -32,15 +32,6 @@ Currently in the thick of a computer science degree — here's what's on my plat
 
 ---
 
-## 📈 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stateofprojects&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stateofprojects&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 💬 a bit about me
 
 I'm the kind of person who learns best by building. Whether it's a university project or something I'm tinkering with on the side, I'd rather get my hands dirty and figure it out than wait until I feel "ready."
